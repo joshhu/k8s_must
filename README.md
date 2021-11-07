@@ -14,10 +14,10 @@ https://hackmd.io/@joshhu/HkBgfl8DB
 * `docker`操作總覽
 https://hackmd.io/@joshhu/Hyh8YfYLt
 
-* `docker`映像檔操作
+* `docker image`映像檔操作
 https://hackmd.io/@joshhu/S1Kqc1sUY
 
-* `docker`容器操作
+* `docker container`容器操作
 https://hackmd.io/@joshhu/SJX5VgiIK
 
 * 自己建立映像檔
