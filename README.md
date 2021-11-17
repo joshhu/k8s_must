@@ -40,5 +40,8 @@ https://hackmd.io/@joshhu/SkB4ROWwY
 * k8s架構說明
 https://hackmd.io/@joshhu/Hkp2R_WvY
 
+* k8s操作說明
+https://hackmd.io/@joshhu/Sk-LcBGut
+
 * 使用3台vagrant建立的VMs架設一個k8s叢集
 https://hackmd.io/@joshhu/rJ2sIMpUY
