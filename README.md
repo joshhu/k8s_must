@@ -29,7 +29,7 @@ https://hackmd.io/@joshhu/SkcmPbjLt
 * `docker network`操作總覽
 https://hackmd.io/@joshhu/r1Yj6_bPK
 
-* 自己建立映像檔
+* `docker build`自己建立映像檔
 https://hackmd.io/@joshhu/S1P6EqC8t
 
 * `docker-compose`操作總覽
